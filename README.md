@@ -14,12 +14,11 @@ Developing embedded systems for industrial automation at **Group Pradolux-Luxpar
 ---
 
 ## 📊 **GitHub Stats**  
-![Harrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarrisonSouza&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues)  
-*Daily commits to private repositories (company projects).*  
+![Harrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrison2415&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)  
+*Daily commits to private and public repositories.*  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonSouza&layout=compact&theme=dark&hide_border=true&langs_count=5&hide=HTML,JavaScript,CSS)  
-*C/C++ and Python dominate my public work.*  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrison2415&layout=compact&theme=dark&hide_border=true&langs_count=5)  
+*C/C++ and Python dominate my work.* 
 ---
 
 ## 🛠 **Technical Skills**  
