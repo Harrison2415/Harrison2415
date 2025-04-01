@@ -17,7 +17,7 @@ Developing embedded systems for industrial automation at **Group Pradolux-Luxpar
 ![Harrison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarrisonSouza&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues)  
 *Daily commits to private repositories (company projects).*  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonSouza&layout=compact&theme=dark&hide_border=true&langs_count=5&hide=HTML,JavaScript,CSS&exclude_repo=company-repo-name)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonSouza&layout=compact&theme=dark&hide_border=true&langs_count=5&hide=HTML,JavaScript,CSS)  
 *C/C++ and Python dominate my public work.*  
 
 ---
@@ -43,13 +43,10 @@ Developing embedded systems for industrial automation at **Group Pradolux-Luxpar
 ---
 
 ## 🌟 **Featured Projects**  
-[![Flight Simulator](https://github-readme-stats.vercel.app/api/pin/?username=HarrisonSouza&repo=F18-Flight-Simulator&theme=dark)](https://github.com/HarrisonSouza/F18-Flight-Simulator)  
-*Embedded flight simulator with real-time telemetry.*  
+[![MQTT Project PUC](https://github-readme-stats.vercel.app/api/pin/?username=Harrison2415&repo=MQTT_Project_PUC&theme=dark)](https://github.com/Harrison2415/MQTT_Project_PUC)  
+*IoT system with MQTT protocol for secure device communication (ESP32 + Mosquitto Broker + Python Dashboard).*  
 
-[![IoT Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=HarrisonSouza&repo=IoT-Dashboard&theme=dark)](https://github.com/HarrisonSouza/IoT-Dashboard)  
-*Cloud-connected IoT monitoring system (ESP32 + MQTT).*  
-
-*(More projects available on [my GitHub](https://github.com/HarrisonSouza))*  
+*(More projects on [my GitHub](https://github.com/HarrisonSouza) and [LinkedIn](https://www.linkedin.com/in/harrisonsouzaaraujo/).)*  
 
 ---
 
