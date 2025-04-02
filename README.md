@@ -1,18 +1,10 @@
 # Harrison Souza Araujo <img src="https://img.icons8.com/color/48/000000/microchip.png" width="30"/>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <h3>Embedded Systems Developer | IoT | Hardware Solutions</h3>
-    <p>🚀 <strong>Focus:</strong> C/C++, IoT, PCB Design, Microcontrollers (ESP32, Arduino, Raspberry Pi)</p>
-    <p>📖 <strong>Advanced Studies:</strong> FPGA, RISC-V, ARM Architectures</p>
-    <p>🌍 <strong>Goal:</strong> Building efficient and innovative hardware/software solutions for the global market.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <h3>🔧 Currently Working On</h3>
-    <p>Developing embedded systems for industrial automation at <strong>Group Pradolux-Luxparts</strong> (private repos).</p>
-  </div>
-</div>
+| **Embedded Systems Developer**       | **🔧 Currently Working On**              |
+|--------------------------------------|----------------------------------------|
+| 🚀 **Focus:** C/C++, IoT, PCB Design, Microcontrollers (ESP32, Arduino, Raspberry Pi  | Developing embedded systems for industrial automation at **Group Pradolux-Luxparts** (private repos). |
+| 📖 **Advanced Studies:** FPGA, RISC-V, ARM Architectures | |
+| 🌍 **Goal:** Building efficient and innovative hardware/software solutions | |
 
 ## 📊 **GitHub Stats**  
 
