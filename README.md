@@ -2,9 +2,9 @@
 
 | **Embedded Systems Developer**       | **🔧 Currently Working On**              |
 |--------------------------------------|----------------------------------------|
-| 🚀 **Focus:** C/C++, IoT, PCB Design, Microcontrollers (ESP32, Arduino, Raspberry Pi  | Developing embedded systems for industrial automation at **Group Pradolux-Luxparts** (private repos). |
-| 📖 **Advanced Studies:** FPGA, RISC-V, ARM Architectures | |
-| 🌍 **Goal:** Building efficient and innovative hardware/software solutions | |
+| 🚀 **Focus:**<br>• C/C++<br>• IoT Solutions<br>• PCB Design<br>• Microcontrollers (ESP32, Arduino, RPi) | Development of embedded systems for industrial automation at **Pradolux-Luxparts Group** (private repositories). |
+| 📖 **Advanced Studies:**<br>• FPGA Development<br>• RISC-V Architectures<br>• ARM Cortex Series | Working on personal projects 😉<br>"Check my commits for updates!" |
+| 🌍 **Objective:**<br>Building efficient and innovative hardware/software solutions for global challenges | Open to collaborations and innovative ideas |
 
 ## 📊 **GitHub Stats**  
 
