@@ -2,26 +2,30 @@
 
 ### **Embedded Systems Developer**  
 
-🚀 **Focus:**  
-- **C/C++**  
-- **IoT Solutions**  
-- **PCB Design**  
-- **Microcontrollers** (ESP32, Arduino, Raspberry Pi)  
-
-📖 **Advanced Studies:**  
-- **FPGA Development**  
-- **RISC-V Architectures**  
-- **ARM Cortex Series**  
-
-🌍 **Objective:**  
-
-Building efficient and innovative hardware/software solutions for global challenges.  
-
----
-
-### **🔧 Currently Working On**  
-- **Industrial Automation and embedded development:**  
-  Developing embedded systems for **Pradolux-Luxparts Group** *(private repositories)*.   
+<table>
+  <tr>
+    <th>🚀 <strong>Focus:</strong></th>
+    <th>📖 <strong>Currently Studying:</strong></th>
+    <th rowspan="5">🌍 <strong>Objective:</strong><br><br>Building efficient and innovative hardware/software solutions for global challenges.</th>
+    <th rowspan="5">🔧 <strong>Currently Working On:</strong><br><br><strong>Industrial Automation and embedded development:</strong><br>Developing embedded systems for <strong>Pradolux-Luxparts Group</strong><br><em>(private repositories)</em>.</th>
+  </tr>
+  <tr>
+    <td>- <strong>C/C++</strong></td>
+    <td>- <strong>FPGA Development</strong></td>
+  </tr>
+  <tr>
+    <td>- <strong>IoT Solutions</strong></td>
+    <td>- <strong>RISC-V Architectures</strong></td>
+  </tr>
+  <tr>
+    <td>- <strong>PCB Design</strong></td>
+    <td>- <strong>ARM Cortex Series</strong></td>
+  </tr>
+  <tr>
+    <td>- <strong>Microcontrollers</strong><br>(ESP32, Arduino, Raspberry Pi)</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
